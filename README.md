@@ -1,7 +1,7 @@
 # 🌟 FLORIAN DJANGONIN – Portfolio Data Analyst
 
 Bienvenue sur mon portfolio GitHub !  
-Mon objectif : transformer les données en informations stratégiques, exploitables et impactantes.
+Mon objectif est de transformer les données en informations stratégiques, exploitables et impactantes.
 
 ---
 
