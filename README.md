@@ -62,8 +62,7 @@ J’apporte mon expertise aux entreprises et aux équipes (techniques ou non) da
 
 ## 🎓 Ma formation
 
-- **Master en Big Data Analytics** *(En cours)*
-  
+- **Master en Big Data Analytics** (En cours) 
 - **Licence en  Administration de Base de données**
 ---
 
@@ -82,4 +81,4 @@ Ce portfolio reflète mes projets, mon parcours et ma vision d’une **data scie
 
 ---
 
-📍 **Basé à** : [Afrique]
+📍 **Basé en** : Afrique
