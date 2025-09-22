@@ -62,8 +62,8 @@ J’apporte mon expertise aux entreprises et aux équipes (techniques ou non) da
 
 ## 🎓 Ma formation
 
-- **Master en Big Data Analytics** (En cours) 
-- **Licence en  Administration de Base de données**
+- **Master en Big Data Analytics** En cours 
+- **Licence en Administration de Base de données**
 ---
 
 ## 🔗 Liens essentiels
