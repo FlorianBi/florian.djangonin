@@ -1,6 +1,6 @@
-# 🌟 FLORIAN DJANGONIN – Portfolio Data Analyst
+# 🌟 FLORIAN DJANGONIN –  CV | Portfolio Data Analyst
 
-Bienvenue sur mon portfolio GitHub !  
+Bienvenue sur mon CV/portfolio GitHub !  
 Mon objectif est de transformer les données en informations stratégiques, exploitables et impactantes.
 
 ---
@@ -8,7 +8,7 @@ Mon objectif est de transformer les données en informations stratégiques, expl
 ## 👤 À propos de moi
 
 Je suis **FLORIAN DJANGONIN**, Data Analyst certifié Microsoft Power BI (PL-300).  
-J’accompagne les entreprises et les équipes (techniques ou non) dans leurs décisions stratégiques et opérationnelles grâce à des analyses fiables et des visualisations percutantes.
+J’apporte mon expertise aux entreprises et aux équipes (techniques ou non) dans leurs décisions stratégiques et opérationnelles grâce à des analyses fiables et des visualisations percutantes.
 
 ---
 
@@ -63,7 +63,7 @@ J’accompagne les entreprises et les équipes (techniques ou non) dans leurs d�
 ## 🎓 Ma formation
 
 - **Master en Big Data Analytics** *(En cours)*
-
+- **Licence en Administration de Base de données** 
 ---
 
 ## 🔗 Liens essentiels
