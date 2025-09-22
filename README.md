@@ -1,4 +1,4 @@
-# 🌟 FLORIAN DJANGONIN –  CV | Portfolio Data Analyst
+# 🌟 FLORIAN DJANGONIN – Data Analyst
 
 Bienvenue sur mon CV/portfolio GitHub !  
 Mon objectif est de transformer les données en informations stratégiques, exploitables et impactantes.
