@@ -30,6 +30,25 @@ J’apporte mon expertise aux entreprises et aux équipes (techniques ou non) da
 
 ## 📂 Mes projets
 
+### ✈️ Mesure et suivi de l’évolution du trafic passagers de l'aéroport de San Francisco (Power BI)
+
+- Tableau de bord opérationnel du trafic de passagers conçu pour simuler un reporting à destination de profils DG, Marketing, etc.
+- Intègre prévisions de trafic, segmentation par compagnie, terminal et type de vol, avec croissance de +7, 47% détectée sur la période analysée (2023-2025).
+
+
+[🔗 Voir le projet](https://github.com/FlorianBi/Mesure-et-suivide-l-evolution-du-trafic-passagers-par-compagnie-aerienne/tree/main#-tableau-de-bord-du-trafic-passagers-de-la%C3%A9roport-de-san-francisco)
+
+---
+
+### ✈️ Détection des Services les Moins Performants en Vol – Skyplane (Power BI)
+- Identifier les niveaux de satisfaction et leurs variations  
+- Déterminer les services et préférences clients influençant la satisfaction  
+- Proposer des recommandations pour optimiser l’expérience passager
+
+[🔗 Voir le projet](https://medium.com/@floriandjangonin/détection-des-services-les-moins-performants-pendant-le-vol-de-la-compagnie-skyplane-et-15fad547d5ba)
+
+---
+
 ### 🛍️ Shopino – Analyse des Données de Ventes à la Fidélisation (SQL)
 - Identifier le comportement d’achat  
 - Analyser les produits & catégories  
@@ -51,14 +70,6 @@ J’apporte mon expertise aux entreprises et aux équipes (techniques ou non) da
 
 ---
 
-### ✈️ Détection des Services les Moins Performants en Vol – Skyplane (Power BI)
-- Identifier les niveaux de satisfaction et leurs variations  
-- Déterminer les services et préférences clients influençant la satisfaction  
-- Proposer des recommandations pour optimiser l’expérience passager
-
-[🔗 Voir le projet](https://medium.com/@floriandjangonin/détection-des-services-les-moins-performants-pendant-le-vol-de-la-compagnie-skyplane-et-15fad547d5ba)
-
----
 
 ## 🎓 Ma formation
 
